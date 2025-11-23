@@ -5,7 +5,7 @@ These programs helped me practice core Java concepts such as loops, conditions, 
 
 ## 📚 Programs Included
 
-1. **Prime Number Checker**  
+1. **Prime Number Checker**
    Checks whether a number is prime or not.
 
 2. **Palindrome Number Checker**  
@@ -23,6 +23,8 @@ These programs helped me practice core Java concepts such as loops, conditions, 
 6. **Strong Number Checker**  
    Verifies whether a number is a Strong Number (sum of factorial of digits).
 
+7. **Nth Prime Number Checker**
+   Checks the Nth or desired prime Number.
 ---
 
 ## 🛠 Technologies Used
@@ -32,7 +34,7 @@ These programs helped me practice core Java concepts such as loops, conditions, 
 
 ## ▶️ How to Run Any Program
 
-1. Choose any `.java` file from this repository  
+1. Choose any .java file from this repository  
 2. Save it locally on your computer  
 3. Open Command Prompt / Terminal  
 4. Compile the program:
